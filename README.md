@@ -3,3 +3,4 @@ sudo pacman -Syu neofetch neovim yazi yay zsh wofi hyprpaper hyprlock waybar bto
 ```
 
 greeter - ly
+for wlogout you need to copy icons in /usr/share/wlogout/icons/
